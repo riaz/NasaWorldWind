@@ -9,7 +9,12 @@ import javax.swing.*;
 to create a WorldWind application. */
 public class FirstShot extends JFrame
 {
-    public FirstShot()
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = -1913647701268424645L;
+
+	public FirstShot()
     {
         WorldWindowGLCanvas wwd = new WorldWindowGLCanvas();
         wwd.setPreferredSize(new java.awt.Dimension(1000, 800));
