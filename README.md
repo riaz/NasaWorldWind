@@ -1,4 +1,4 @@
-[1] Nasa World Wind
+ Nasa World Wind
 =========================
 
 ![Nasa World Wind](/img/whirlwind.png)
